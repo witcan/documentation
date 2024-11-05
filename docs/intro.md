@@ -2,40 +2,36 @@
 sidebar_position: 1
 slug: /
 ---
-# Introduction1
+# EZ系列 手动更新教程 V17
 
-It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s open-source documentation template.
+Update：当前固件版本为V17版本。
 
-:::info
+*当前驱动为强制更新，若您能正常使用驱动，则说明已是最新版本固件。
 
-[Dhub](https://dhub.dev) is a collaborative WYSIWYG editor for Docusaurus that enables both technical and non-technical users to efficiently and easily create and edit Docusaurus Markdown content.
+手动DFU更新固件
 
-:::
+第一步：下载固件
 
-![](assets/20241105_143644_QQ_1730714521887.png)
+[20241105_145030_frp_0.61.0_linux_amd64.tar.gz](assets/20241105_145030_frp_0.61.0_linux_amd64.tar.gz)
 
-## Get started
+EZ60用户请下载：
 
-Here's a couple of tips to get you started with [Dhub](https://dhub.dev):
+EZ63用户请下载：
 
-1. Remember that everything on this page is editable (assuming you're in the editor). Type `/` to open the command menu and add images, code blocks and other components.
-2. With [Dhub](https://dhub.dev), you own your code. Click the `Push GitHub` button to create a GitHub repository for your project.
-3. You can deploy your project to the web using [Vercel](https://vercel.com) or [Netlify](https://netlify.com) for free. Here are tutorials on how to deploy to [Vercel](https://vercel.com/guides/deploying-docusaurus-with-vercel) and to [Netlify](https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/). Alternatively, you click the three dots at the top right corner, and then click the `Deloy to Vercel`.
+第二步：键盘进入DFU模式
 
-:::info Preview URL
+按住按键 **FN + B ** 后，键盘将进入DFU模式。
 
-Here's a link to see how this template looks like when deployed on the Web
+此时本地 【我的电脑】 中，将出现一个 【IQUNIX_DFU】 盘符。
 
-[https://template-docusaurus-docs.dhub.dev](https://template-docusaurus-docs.dhub.dev/)
+![](https://help.iqunix.com/~gitbook/image?url=https%3A%2F%2F1937106881-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8bzJRpiQ4DQpEdT3zBOe%252Fuploads%252FeX7UgqrfoFDK1MDf5nlx%252Fimg_v3_02g9_6c1479fb-bb2e-4b34-a135-2da397efb07g.jpg%3Falt%3Dmedia%26token%3Db5381a02-0558-4ad1-ab6b-3f7bd7168144&width=768&dpr=4&quality=100&sign=2f407bde&sv=1)
 
-:::
+第三步：拖入最新固件
 
-## Docusaurus
+将固件拖入 【我的电脑】-【IQUNIX_DFU】盘。
 
-This template is based on Meta's [Docusaurus](https://docusaurus.io/) framework. Docusaurus is a powerful tool for building content-centric websites, offering features such as translations, versioning, and content search.
+键盘自动重启后，可再次连接驱动。
 
-Explore [Docusaurus' documentation](https://docusaurus.io/docs) to learn more about its capabilities.
+*请务必放入正确的固件，EZ63请用63固件，EZ60请用60固件。
 
-## **Need help?**
-
-Need help with a specific use-case or just want to chat about docs? You're very welcome to email us at [hello@dhub.dev](mailto:hello@dhub.dev), [join our Discord](https://discord.gg/6qGnyrt7xy), or send feedback (directly to our Slack) using the `Send feedback` button at the top.
+![](https://help.iqunix.com/~gitbook/image?url=https%3A%2F%2F1937106881-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F8bzJRpiQ4DQpEdT3zBOe%252Fuploads%252FfFv18k6atqj96gpjSGIQ%252Fimg_v3_02g9_578ffb16-024d-42df-8c23-8879cf87c1ag.jpg%3Falt%3Dmedia%26token%3D6c1cd6fd-002f-4f14-bb4f-79286f567c03&width=768&dpr=4&quality=100&sign=f46edd50&sv=1)
