@@ -13,8 +13,6 @@ It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s op
 
 :::
 
-![](../img/rocket.webp)
-
 <figure><img src="../.gitbook/assets/竖图.webp" alt="测试"/><figcaption></figcaption></figure>
 
 ## Get started
