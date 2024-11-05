@@ -13,7 +13,7 @@ It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s op
 
 :::
 
-<figure><img src="../.gitbook/assets/machine-rabbit-rgb.png" alt=""><figcaption></figcaption></figure>
+![](/img/rocket.webp)
 
 ## Get started
 
