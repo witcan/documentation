@@ -13,7 +13,7 @@ It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s op
 
 :::
 
-<figure><img src="../.gitbook/assets/机器兔-rgb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/machine-rabbit-rgb.png" alt=""><figcaption></figcaption></figure>
 
 ## Get started
 
