@@ -2,7 +2,6 @@
 sidebar_position: 1
 slug: /
 ---
-
 # Introduction1
 
 It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s open-source documentation template.
@@ -13,7 +12,7 @@ It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s op
 
 :::
 
-<figure><img src="../.gitbook/assets/竖图.webp" alt="测试"/><figcaption></figcaption></figure>
+![](assets/20241105_143644_QQ_1730714521887.png)
 
 ## Get started
 
