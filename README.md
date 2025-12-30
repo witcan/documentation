@@ -12,7 +12,7 @@ To start this project on your machine run the following:
 
 ```
    npm install
-   npm start
+   npm start3333
 ```
 
 ![](.gitbook/assets/竖图.webp)
