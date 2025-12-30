@@ -14,3 +14,5 @@ To start this project on your machine run the following:
    npm install
    npm start
 ```
+
+![](.gitbook/assets/竖图.webp)
